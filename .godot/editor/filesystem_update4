@@ -1,0 +1,9 @@
+res://scenes/player/player.tscn
+res://scenes/levels/level.gd
+res://scenes/player/player.gd
+res://scenes/levels/level.tscn
+res://scenes/objects/gate.tscn
+res://scenes/projectiles/laser.tscn
+res://scenes/projectiles/laser.gd
+res://scenes/projectiles/grenade.tscn
+res://scenes/projectiles/grenade.gd
